@@ -6,6 +6,11 @@ clase={
 			"nombre":"Antonio González",
 			"email":"antoniogonzalezwebmaster@gmail.com"
 		}
+		{
+			"rol":"alumno",
+			"nombre":"Adolfo Romero",
+			"email":"adolfo.romero.escalona@gmail.com"
+		}
 	]	
 }
 
