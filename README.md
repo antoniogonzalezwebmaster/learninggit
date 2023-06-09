@@ -9,3 +9,4 @@ Alumnos:
 
 - Ernie Contreras
 - Edgar Salazar
+- Adolfo Romero
