@@ -6,8 +6,16 @@ clase={
 			"nombre":"Antonio González",
 			"email":"antoniogonzalezwebmaster@gmail.com"
 		}
+
+		{
+			"rol":"estudiante",
+			"nombre":"Adolfo Romero",
+			"email":"adolfo.romero.escalona@gmail.com"
+		}
 	]	
 }
+
+
 
 
 print("Clase de GIT para la clase de {}".format(clase["nombre"]))
