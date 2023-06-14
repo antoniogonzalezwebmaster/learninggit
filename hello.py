@@ -15,6 +15,11 @@ clase={
 			"rol":"alumno",
 			"nombre":"Edgar F. Salazar Villegas",
 			"email":"ediblue@gmail.com"
+		},
+		{
+			"rol":"alumno",
+			"nombre":"Ernie Contreras",
+			"email":"ernie.acf@gmail.com"
 		}
 	]
 }
