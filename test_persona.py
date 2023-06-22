@@ -25,8 +25,6 @@ class TestPersona:
 		persona = Persona(nombre="María Alejandra", edad=22)
 		assert "Alejandra" in persona.nombre()
 
-	
-
 	def test_anio_nacimiento(self):
 		persona = Persona(nombre="María Alejandra", edad=22)
 		assert persona.calcular_anio_nacimiento(True) == datetime.datetime.now().year - 22
@@ -36,7 +34,8 @@ class TestPersona:
 		persona = Persona(nombre="Adolfo", edad=47)
 		assert persona.edad() > 18
 
-	def mayor_de_edad(self):
-		persona = Persona(nombre="Adolfo", edad=15)
-		assert persona.edad
+	def quien_es_mayor(self):
+		persona_a = Persona(nombre="Adolfo", edad=15)
+		persona_b = Persona(nombre="Adolfo", edad= 47)
+		assert persona_a.edad() > persona_b.edad()
 		
