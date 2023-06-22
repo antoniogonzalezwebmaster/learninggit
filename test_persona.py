@@ -32,7 +32,7 @@ class TestPersona:
 
 	def menor_de_edad(self):
 		persona = Persona(nombre="Adolfo", edad=47)
-		assert persona.edad() > 18
+		assert persona.edad() < 18
 
 	def quien_es_mayor(self):
 		persona_a = Persona(nombre="Adolfo", edad=15)
