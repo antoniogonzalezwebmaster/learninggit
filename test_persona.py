@@ -39,3 +39,4 @@ class TestPersona:
 	def mayor_de_edad(self):
 		persona = Persona(nombre="Adolfo", edad=15)
 		assert persona.edad
+		
