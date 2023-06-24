@@ -36,6 +36,7 @@ class TestPersona:
 
 	def test_quien_es_mayor(self):
 		persona_a = Persona(nombre="Adolfo", edad=15)
+		
 		persona_b = Persona(nombre="Nancy", edad= 47)
 		assert persona_a.edad() < persona_b.edad()
 		
