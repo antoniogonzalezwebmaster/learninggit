@@ -31,11 +31,11 @@ class TestPersona:
 		assert persona.calcular_anio_nacimiento(False) == datetime.datetime.now().year - 22 + 1
 
 	def test_menor_de_edad(self):
-		persona = Persona(nombre="Adolfo", edad=47)
+		persona = Persona(nombre="Adolfo", edad=12)
 		assert persona.edad() < 18
 
 	def test_quien_es_mayor(self):
 		persona_a = Persona(nombre="Adolfo", edad=15)
-		persona_b = Persona(nombre="Adolfo", edad= 47)
+		persona_b = Persona(nombre="Nancy", edad= 47)
 		assert persona_a.edad() < persona_b.edad()
 		
