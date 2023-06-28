@@ -8,11 +8,11 @@ clase={
 		},
 		{
 			"rol":"alumno",
-			"nombre":"Adolfo Romero",
+			"nombre":"Adolfo Romero E",
 			"email":"adolfo.romero.escalona@gmail.com"
 		},
 		{
-		        "rol":"alumno",
+		    "rol":"alumno",
 			"nombre":"Edgar F. Salazar Villegas",
 			"email":"ediblue@gmail.com"
 		}
