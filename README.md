@@ -7,6 +7,3 @@ _Antonio González_
 
 Alumnos:
 
-- Ernie Contreras
-- Edgar Salazar
-- Adolfo Romero

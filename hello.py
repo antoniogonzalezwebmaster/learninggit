@@ -7,12 +7,12 @@ clase={
 			"email":"antoniogonzalezwebmaster@gmail.com"
 		},
 		{
-			"rol":"alumno",
+			"rol":"ex-alumno",
 			"nombre":"Adolfo Romero",
 			"email":"adolfo.romero.escalona@gmail.com"
 		},
 		{
-		        "rol":"alumno",
+		        "rol":"ex-alumno",
 			"nombre":"Edgar F. Salazar Villegas",
 			"email":"ediblue@gmail.com"
 		}
