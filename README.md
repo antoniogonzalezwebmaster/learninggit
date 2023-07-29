@@ -5,5 +5,7 @@ por
 
 _Antonio González García_
 
-Alumnos:**_Juan Gabriel Mancilla Mondragon_**
+Alumnos:
+**_Luis Alberto Morgado_**
+**_Juan Gabriel Mancilla Mondragon_**
 
