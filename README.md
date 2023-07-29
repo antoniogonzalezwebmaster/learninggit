@@ -3,7 +3,7 @@
 
 por
 
-_Antonio González_
+_Antonio González García_
 
 Alumnos:
 
