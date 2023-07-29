@@ -6,6 +6,7 @@ por
 _Antonio González García_
 
 Alumnos:
-**_Luis Alberto Morgado_**
-**_Juan Gabriel Mancilla Mondragon_**
+ **_Juan Gabriel Mancilla Mondragon_**
+ **_Luis Alberto Morgado_**
+
 
