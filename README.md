@@ -5,5 +5,5 @@ por
 
 _Antonio González García_
 
-Alumnos:**_Juan Gabriel Mancilla Mondragon_**
+Alumnos:**_Mario Alcantara Vallejo_**
 
